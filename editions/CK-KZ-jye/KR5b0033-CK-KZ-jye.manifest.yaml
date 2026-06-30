@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5b0033/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0033/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶法燭經
+  date: '2015-08-28 23:47:45.869962'
+  source:
+    repository: kanripo
+    path: KR5b0033
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0033_000-CK-KZ-jye.yaml, hash: 'sha256:1cf4f0e933d7d9a190529870bebe30adac75678d6906aa35d290ce48c6e62d8f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0033_000-CK-KZ-jye.markers.yaml, hash: 'sha256:7fd34af5d609def8b47cbf5333600489d59b29c59ff7f459764bf28fa7e5e7dd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0033_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 3005
+  label: 太上洞玄靈寶法燭經
+  type: section
+  level: 1
+hash: sha256:3710ae4b6ddf99550bbaba9035bca1c64f63de4c9cec4081ae771fc1515d15b5

@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0033/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0033/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶法燭經
+  date: '2015-08-28 23:47:45.869962'
+  source:
+    repository: kanripo
+    path: KR5b0033
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0033_000-ZTDZ.yaml, hash: 'sha256:12c488aae516a998a89438a3a287c770c4d80d12a13f919a5387a2e1b9872ff7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0033_000-ZTDZ.markers.yaml, hash: 'sha256:8fd712158da41289f7ba676aeeaff9b63889d9bb24bf4a73ad943eacc165201e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0033_SJB_000-060178a
+    span:
+    - body
+    - 0
+    - 3050
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f33689a67dac4991fc2fc201baa9653de9c859393574d6a906cd07efea791804
