@@ -51,6 +51,7 @@ markers:
   - {type: line-break, offset: 35, content: '', id: KR5b0033_HFL_000-001a06}
   - {type: indent, offset: 35, content: 　, id: KR5b0033_krp_000-bkkind4}
   - {type: punctuation, offset: 37, content: (, id: KR5b0033_krp_000-bkkpn1}
+  - {type: voice, offset: 37, length: 42, name: note, id: n1}
   - {type: punctuation, offset: 51, content: /, id: KR5b0033_krp_000-bkkpn2}
   - {type: punctuation, offset: 65, content: ), id: KR5b0033_krp_000-bkkpn3}
   - {type: 'kr:newline', offset: 65, content: '
@@ -1455,6 +1456,7 @@ markers:
   - {type: variant, offset: 3040, length: 10, content: 太上洞玄靈寳法燭經終, YP-C: ''}
   - {type: substitution, offset: 3045, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 3049, content: (, id: KR5b0033_krp_000-bkkpn7}
+  - {type: voice, offset: 3049, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3050, content: ), id: KR5b0033_krp_000-bkkpn8}
   - {type: 'kr:newline', offset: 3050, content: '
 
@@ -1494,4 +1496,4 @@ markers:
 
       ', id: KR5b0033_krp_000-bkkkrnewl219}
   back: []
-hash: sha256:82b9e6f422b694187f3d6508e8ba41e8b1ea90f9fc444451c36f2116d74a258d
+hash: sha256:fbbafc2494983c1c8a64b031cbc7081b8ba453ececc0feea3f22855f2e12fca4
